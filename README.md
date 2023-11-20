@@ -1,4 +1,4 @@
-# ## A01753176 Gilberto André García Gaytán
+## A01753176 Gilberto André García Gaytán
 
 # Repositorio `modulo5_evidencias`
 
